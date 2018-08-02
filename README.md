@@ -6,3 +6,8 @@ Diccionario para atacar handshares de redes wifi del tipo Fibertel WifiXXXX con 
 **En powershell:**
 
 > type diccionarioFibertel.txt | .\hashcat64.exe -m 400 captura.hccap
+
+
+**Extraido de:**
+
+https://sourceforge.net/projects/fibercrunch/
