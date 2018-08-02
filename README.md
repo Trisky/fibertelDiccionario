@@ -1,5 +1,5 @@
 # fibertelDiccionario
-Diccionario para atacar handshares de redes wifi del tipo Fibertel WifiXXXX con oclHashcat
+Diccionario para atacar capturas de handshakes de redes wifi del tipo Fibertel WifiXXXX con oclHashcat.
 
 
 
